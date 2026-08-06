@@ -12,9 +12,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0238-product-of-array-except-self) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0238-product-of-array-except-self) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0198-house-robber](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0198-house-robber) |
 <!---LeetCode Topics End-->
