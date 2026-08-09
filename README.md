@@ -22,4 +22,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0198-house-robber) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0125-valid-palindrome) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
