@@ -30,4 +30,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0125-valid-palindrome) |
+## Binary Search
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0278-first-bad-version) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
