@@ -50,4 +50,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+## Stack
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0232-implement-queue-using-stacks) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
