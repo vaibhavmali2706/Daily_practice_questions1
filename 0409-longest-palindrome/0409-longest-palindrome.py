@@ -1,18 +1,18 @@
 class Solution:
-    def longestPalindrome(self, s: str) -> int: 
-        
-        count = {}
-        for char in s:
-            count[char] = count.get(char, 0) + 1
-        length = 0
-        odd=False
-        for freq in count.values():
-            if freq % 2 == 0:
-                length += freq
+    def longestPalindrome(self, s: str) -> int:
+        hmap = dict()
+        for ch in s:
+            if ch not in hmap:
+                hmap[ch] = 1
             else:
-                length += freq-1
-                odd=True
-        if odd:
-            length+=1
-        return (length)
+                hmap[ch] += 1
         
+        odd_count = 0
+        for v in hmap.values():
+            if v % 2 != 0:
+                odd_count += 1
+        
+        if odd_count > 0:
+            odd_count -= 1
+
+        return sum(hmap.values()) - odd_count
