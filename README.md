@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0142-linked-list-cycle-ii) |
 ## String
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0142-linked-list-cycle-ii) |
 | [0409-longest-palindrome](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0409-longest-palindrome) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -89,8 +91,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0142-linked-list-cycle-ii) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
