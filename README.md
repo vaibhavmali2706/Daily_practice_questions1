@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0238-product-of-array-except-self) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0896-monotonic-array](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0896-monotonic-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/2206-divide-array-into-equal-pairs) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/3069-distribute-elements-into-two-arrays-i) |
