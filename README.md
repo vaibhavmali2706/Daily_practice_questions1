@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0238-product-of-array-except-self) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0645-set-mismatch](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0645-set-mismatch) |
 | [0896-monotonic-array](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0896-monotonic-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/2206-divide-array-into-equal-pairs) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0409-longest-palindrome) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0645-set-mismatch](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0645-set-mismatch) |
 | [0859-buddy-strings](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0859-buddy-strings) |
 | [2206-divide-array-into-equal-pairs](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/2206-divide-array-into-equal-pairs) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0442-find-all-duplicates-in-an-array](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0645-set-mismatch](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0645-set-mismatch) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Stack
 |  |
@@ -117,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0645-set-mismatch](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0645-set-mismatch) |
 | [2206-divide-array-into-equal-pairs](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/2206-divide-array-into-equal-pairs) |
 ## Counting
 |  |
