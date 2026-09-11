@@ -1,10 +1,10 @@
 class Solution:
     def totalNumbers(self, digits: List[int]) -> int:
         ans = set()
-
-        for i in range(len(digits)):
-            for j in range(len(digits)):
-                for k in range(len(digits)):
+        a=len(digits)
+        for i in range(a):
+            for j in range(a):
+                for k in range(a):
 
                     if i == j or j == k or i == k:
                         continue
