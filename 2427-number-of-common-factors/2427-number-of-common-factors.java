@@ -1,7 +1,15 @@
 class Solution {
     public int commonFactors(int a, int b) {
         int cnt=0;
-        for (int i =0;i<=b;i++){
+        int low =0;
+            if (a<b){
+            low=a;
+
+        }
+        else{
+            low =b;
+        }
+        for (int i =0;i<=low;i++){
             if (i==0){
                 
             }
