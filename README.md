@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0013-roman-to-integer) |
 | [1512-number-of-good-pairs](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/1512-number-of-good-pairs) |
+| [2427-number-of-common-factors](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/2427-number-of-common-factors) |
 | [2652-sum-multiples](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/2652-sum-multiples) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2427-number-of-common-factors](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/2427-number-of-common-factors) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/3483-unique-3-digit-even-numbers) |
 ## Array
@@ -159,4 +161,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0234-palindrome-linked-list) |
 | [3483-unique-3-digit-even-numbers](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/3483-unique-3-digit-even-numbers) |
+## Number Theory
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/2427-number-of-common-factors) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/2427-number-of-common-factors) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
