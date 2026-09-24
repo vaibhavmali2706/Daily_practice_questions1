@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0013-roman-to-integer) |
 | [1512-number-of-good-pairs](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/1512-number-of-good-pairs) |
+| [2652-sum-multiples](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/2652-sum-multiples) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
