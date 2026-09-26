@@ -5,7 +5,6 @@ class Solution:
             dic[i]=dic.get(i,0)+1
         for j in list(s2.split()):
             dic[j]=dic.get(j,0)+1
-        return [i for i in dic if dic[i]==1]
-            
+        return [w for w, v in dic.items() if v == 1]             
 
         
