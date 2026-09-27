@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0819-most-common-word) |
 | [0859-buddy-strings](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0859-buddy-strings) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0884-uncommon-words-from-two-sentences) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/2085-count-common-words-with-one-occurrence) |
 | [3498-reverse-degree-of-a-string](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/3498-reverse-degree-of-a-string) |
 ## Binary Search
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0234-palindrome-linked-list) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Design
 |  |
 | ------- |
@@ -180,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2427-number-of-common-factors](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/2427-number-of-common-factors) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
