@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0032-longest-valid-parentheses) |
 | [0198-house-robber](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0198-house-robber) |
 ## Two Pointers
 |  |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0014-longest-common-prefix) |
+| [0032-longest-valid-parentheses](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0032-longest-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0345-reverse-vowels-of-a-string) |
 | [0409-longest-palindrome](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0409-longest-palindrome) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0032-longest-valid-parentheses) |
 | [0155-min-stack](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0234-palindrome-linked-list) |
@@ -185,5 +188,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0032-longest-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
