@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0032-longest-valid-parentheses) |
 | [0155-min-stack](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0234-palindrome-linked-list) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -127,10 +128,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0232-implement-queue-using-stacks) |
 ## Greedy
 |  |
