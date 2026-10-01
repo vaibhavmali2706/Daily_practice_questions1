@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0032-longest-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0345-reverse-vowels-of-a-string) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0032-longest-valid-parentheses) |
 | [0155-min-stack](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0225-implement-stack-using-queues) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0032-longest-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
