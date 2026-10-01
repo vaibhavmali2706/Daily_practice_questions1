@@ -12,13 +12,9 @@ class Solution(object):
         }
 
         for ch in s:
-            # Opening brackets
             if ch in "({[":
                 stack.append(ch)
-
-            # Closing brackets
             else:
-                # Stack empty OR top doesn't match
                 if not stack or stack[-1] !=mapping[ch]:
                     return False
 
