@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0238-product-of-array-except-self) |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/1422-maximum-score-after-splitting-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-buddy-strings](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0859-buddy-strings) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/2085-count-common-words-with-one-occurrence) |
 | [3498-reverse-degree-of-a-string](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/3498-reverse-degree-of-a-string) |
