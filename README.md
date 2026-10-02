@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0819-most-common-word) |
 | [0896-monotonic-array](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0896-monotonic-array) |
 | [1512-number-of-good-pairs](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/1512-number-of-good-pairs) |
+| [1991-find-the-middle-index-in-array](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/1991-find-the-middle-index-in-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2206-divide-array-into-equal-pairs](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/2206-divide-array-into-equal-pairs) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0238-product-of-array-except-self) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/1422-maximum-score-after-splitting-a-string) |
+| [1991-find-the-middle-index-in-array](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/1991-find-the-middle-index-in-array) |
 ## Dynamic Programming
 |  |
 | ------- |
