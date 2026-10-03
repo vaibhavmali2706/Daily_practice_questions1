@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0645-set-mismatch) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0819-most-common-word](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0819-most-common-word) |
+| [0867-transpose-matrix](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0867-transpose-matrix) |
 | [0896-monotonic-array](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0896-monotonic-array) |
 | [1512-number-of-good-pairs](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/1512-number-of-good-pairs) |
 | [1991-find-the-middle-index-in-array](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/1991-find-the-middle-index-in-array) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0867-transpose-matrix) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/3498-reverse-degree-of-a-string) |
@@ -206,4 +208,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0032-longest-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
