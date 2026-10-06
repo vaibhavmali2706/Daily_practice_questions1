@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0234-palindrome-linked-list) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0345-reverse-vowels-of-a-string) |
+| [0541-reverse-string-ii](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0557-reverse-words-in-a-string-iii) |
 | [3992-rearrange-string-to-avoid-character-pair](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/3992-rearrange-string-to-avoid-character-pair) |
 ## String
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0345-reverse-vowels-of-a-string) |
 | [0409-longest-palindrome](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0409-longest-palindrome) |
 | [0434-number-of-segments-in-a-string](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0434-number-of-segments-in-a-string) |
+| [0541-reverse-string-ii](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0819-most-common-word](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0819-most-common-word) |
 | [0859-buddy-strings](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0859-buddy-strings) |
