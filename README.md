@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1422-maximum-score-after-splitting-a-string](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2810-faulty-keyboard](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/2810-faulty-keyboard) |
 | [3498-reverse-degree-of-a-string](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/3498-reverse-degree-of-a-string) |
 | [3992-rearrange-string-to-avoid-character-pair](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/3992-rearrange-string-to-avoid-character-pair) |
 ## Binary Search
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0867-transpose-matrix](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0867-transpose-matrix) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2810-faulty-keyboard](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/2810-faulty-keyboard) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/3498-reverse-degree-of-a-string) |
 ## Bit Manipulation
