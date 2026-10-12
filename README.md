@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2206-divide-array-into-equal-pairs](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/2206-divide-array-into-equal-pairs) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2903-find-indices-with-index-and-value-difference-i](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/3483-unique-3-digit-even-numbers) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0917-reverse-only-letters](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0917-reverse-only-letters) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2903-find-indices-with-index-and-value-difference-i](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [3992-rearrange-string-to-avoid-character-pair](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/3992-rearrange-string-to-avoid-character-pair) |
 ## String
 |  |
