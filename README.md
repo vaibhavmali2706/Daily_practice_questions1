@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0048-rotate-image) |
 | [1512-number-of-good-pairs](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/1512-number-of-good-pairs) |
 | [2427-number-of-common-factors](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/2427-number-of-common-factors) |
 | [2652-sum-multiples](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/2652-sum-multiples) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0014-longest-common-prefix) |
+| [0048-rotate-image](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0048-rotate-image) |
 | [0198-house-robber](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0238-product-of-array-except-self) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0048-rotate-image) |
 | [0867-transpose-matrix](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0867-transpose-matrix) |
 ## Divide and Conquer
 |  |
