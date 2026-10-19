@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0048-rotate-image) |
+| [1492-the-kth-factor-of-n](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/1492-the-kth-factor-of-n) |
 | [1512-number-of-good-pairs](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/1512-number-of-good-pairs) |
 | [2427-number-of-common-factors](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/2427-number-of-common-factors) |
 | [2652-sum-multiples](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/2652-sum-multiples) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1492-the-kth-factor-of-n](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/1492-the-kth-factor-of-n) |
 | [2427-number-of-common-factors](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/2427-number-of-common-factors) |
 ## Euclidean Algorithm
 |  |
@@ -254,4 +256,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Prime Factorization
+|  |
+| ------- |
+| [1492-the-kth-factor-of-n](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/1492-the-kth-factor-of-n) |
 <!---LeetCode Topics End-->
