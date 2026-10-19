@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/1512-number-of-good-pairs) |
 | [1991-find-the-middle-index-in-array](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/1991-find-the-middle-index-in-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2206-divide-array-into-equal-pairs](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/2206-divide-array-into-equal-pairs) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0035-search-insert-position) |
 | [0278-first-bad-version](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0278-first-bad-version) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Interactive
 |  |
 | ------- |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0645-set-mismatch) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3992-rearrange-string-to-avoid-character-pair](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/3992-rearrange-string-to-avoid-character-pair) |
