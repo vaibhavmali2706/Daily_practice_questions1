@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2810-faulty-keyboard](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/2810-faulty-keyboard) |
 | [2942-find-words-containing-character](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/2942-find-words-containing-character) |
 | [3498-reverse-degree-of-a-string](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/3498-reverse-degree-of-a-string) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3992-rearrange-string-to-avoid-character-pair](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/3992-rearrange-string-to-avoid-character-pair) |
 ## Binary Search
 |  |
