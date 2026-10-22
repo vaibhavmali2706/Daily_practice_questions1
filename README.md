@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2315-count-asterisks](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/2315-count-asterisks) |
 | [2810-faulty-keyboard](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/2810-faulty-keyboard) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0884-uncommon-words-from-two-sentences](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1512-number-of-good-pairs](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/1512-number-of-good-pairs) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2206-divide-array-into-equal-pairs](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/2206-divide-array-into-equal-pairs) |
