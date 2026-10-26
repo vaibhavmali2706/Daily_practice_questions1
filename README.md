@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0142-linked-list-cycle-ii) |
+| [0206-reverse-linked-list](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0234-palindrome-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0234-palindrome-linked-list) |
 | [3483-unique-3-digit-even-numbers](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/3483-unique-3-digit-even-numbers) |
 ## Number Theory
