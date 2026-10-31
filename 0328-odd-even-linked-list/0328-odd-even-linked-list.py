@@ -11,7 +11,7 @@ class Solution:
         even = head.next
         even_h = even
 
-        while even and even.next:
+        while even is not None and even.next is not None:
             odd.next=odd.next.next
             odd=odd.next
             even.next=even.next.next
