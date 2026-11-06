@@ -1,5 +1,7 @@
 class Solution:
     def judgeSquareSum(self, c: int) -> bool:
+        if c == 0:
+            return True
         i=0
         j=int(math.sqrt(c))
         while (i<=j):
