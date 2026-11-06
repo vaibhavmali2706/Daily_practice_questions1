@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0048-rotate-image) |
+| [0633-sum-of-square-numbers](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0633-sum-of-square-numbers) |
 | [1492-the-kth-factor-of-n](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/1492-the-kth-factor-of-n) |
 | [1512-number-of-good-pairs](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/1512-number-of-good-pairs) |
 | [2427-number-of-common-factors](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/2427-number-of-common-factors) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0633-sum-of-square-numbers](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0633-sum-of-square-numbers) |
 | [0680-valid-palindrome-ii](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0680-valid-palindrome-ii) |
 | [0917-reverse-only-letters](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0917-reverse-only-letters) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0035-search-insert-position) |
 | [0278-first-bad-version](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0278-first-bad-version) |
+| [0633-sum-of-square-numbers](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/0633-sum-of-square-numbers) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/vaibhavmali2706/Daily_practice_questions1/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Interactive
